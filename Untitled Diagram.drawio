@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T08:50:30.779Z" agent="5.0 (Windows)" etag="u0U2tVtM4JBvza9hySbQ" version="13.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-13T08:54:17.674Z" agent="5.0 (Windows)" etag="y1RBLNZk8YTMcu5kEN3-" version="13.2.3" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1108" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
           <mxGeometry x="820" y="160" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ubKjR4nhlDmkz1vL9t7O-25" value="POD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="270" width="50" height="60" as="geometry" />
+          <mxGeometry x="850" y="270" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ubKjR4nhlDmkz1vL9t7O-28" value="&lt;div&gt;DB&lt;/div&gt;&lt;div&gt;SERVER&lt;br&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="200" width="60" height="60" as="geometry" />
@@ -162,8 +162,20 @@
         <mxCell id="ubKjR4nhlDmkz1vL9t7O-61" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="749" y="35" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ubKjR4nhlDmkz1vL9t7O-62" value="AWS EKS SYSTEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" width="280" height="60" as="geometry" />
+        <mxCell id="ubKjR4nhlDmkz1vL9t7O-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ubKjR4nhlDmkz1vL9t7O-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ubKjR4nhlDmkz1vL9t7O-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ubKjR4nhlDmkz1vL9t7O-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ubKjR4nhlDmkz1vL9t7O-68" value="QUES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="328" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
